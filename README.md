@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Saurabh Pawar 
 - 👀 I’m interested in Web developement 
-- 🌱 I’m currently learning Vue Js Framework , Vuetify , Javascript .
+- 🌱 I’m currently Working on Vue.js .
